@@ -1,10 +1,10 @@
 # Template new project
 
-css -> styl,
+css -> styl
 
-html -> twig,
+html -> twig
 
-assembly all js files in one file,
+assembly all js files in one file
 
 
 # Getting Started
